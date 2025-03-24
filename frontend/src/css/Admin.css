@@ -1,0 +1,69 @@
+.admin-dashboard {
+    padding: 20px;
+    background-color: #f5f5f5;
+    margin-top: 100px;
+}
+
+.admin-sections>div {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.delete-btn {
+    width: 100px;
+}
+
+.event-management ul,
+.user-management ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.event-management li,
+.user-management li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #e9e9e9;
+    border-radius: 5px;
+}
+
+.event-management button,
+.user-management button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.event-management button:hover,
+.user-management button:hover {
+    background-color: #ff1a1a;
+}
+
+.system-settings div {
+    margin-bottom: 10px;
+}
+
+.system-settings label {
+    margin-right: 10px;
+}
+
+.system-settings button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.system-settings button:hover {
+    background-color: #45a049;
+}
