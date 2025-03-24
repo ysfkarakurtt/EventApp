@@ -1,18 +1,21 @@
 # Event App
 
-
-<div style="display:flex; flex-direction:row;">
   <h2 > Register/Login Page</h2>
-  <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/5460f3e8-993a-49df-9f2b-0f4f8508ce0a">
-<img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/742d4142-b5c4-4adb-b494-c2d93bd6393b">
-</div>
 
-<div style="display:flex; flex-direction:row;">
+| Register Page | Login Page |
+|--------------|-----------|
+| ![Register](https://github.com/user-attachments/assets/5460f3e8-993a-49df-9f2b-0f4f8508ce0a) | ![Login](https://github.com/user-attachments/assets/742d4142-b5c4-4adb-b494-c2d93bd6393b) |
+
+
 <h2 >Homepage</h2>
-<img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/ad43529e-5752-448c-85d2-5c307ba68fe7">
-<img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/7ec9bf1b-acc5-43ed-b099-d50398314fac">
-</div>
+
+| Event List | Event List   |
+|--------------|-----------|
+| ![Register](https://github.com/user-attachments/assets/ad43529e-5752-448c-85d2-5c307ba68fe7a) | ![Login](https://github.com/user-attachments/assets/7ec9bf1b-acc5-43ed-b099-d50398314fac) |
+
+
 <h2 >Profile</h2>
+
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/b106a360-8f98-49d5-b6a3-adb1c3a1815d">
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/bf0b5619-d13f-4bbe-8b1a-9d141c44fb2f">
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/8be0beca-5df3-4091-850a-1632947b35f4">
