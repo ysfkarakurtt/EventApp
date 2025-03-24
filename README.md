@@ -19,7 +19,7 @@
 
 <h2 >Add Event</h2>
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/ea6a171c-f0c3-49d7-bf28-a96fe94aecbf">
-<img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/27d79f48-7dd0-4c8f-9f43-519a63396a4b">
+<img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/ece45aae-d4aa-46e9-a3e2-217b0555cc9b">
 
 <h2 >Event Detail</h2>
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/0c7f7969-7a1a-4ba4-8485-4146d3bfbdce">
@@ -33,4 +33,6 @@
 
 <h2 >Not Found Page</h2>
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/2dfe7ffd-0662-4def-8701-0e50cc7a9bca">
+
+
 
