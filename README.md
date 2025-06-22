@@ -1,4 +1,93 @@
-# Event App
+# Smart Event Planning Platform
+
+A comprehensive smart event management system designed to allow users to create, join, and explore personalized events, interact socially, and view activities on an interactive map. Built as a full-stack web application with a rule-based recommendation system, real-time conflict detection, messaging, and gamification features.
+
+---
+
+## Features
+
+ **Personalized Event Suggestions**
+  Rule-based recommendation engine based on user interests, past participation, and location.
+
+*  **Conflict Detection System**
+  Automatically detects time conflicts between joined and new events.
+
+*  **Messaging Panel**
+  Users can communicate on a shared message board for each event.
+
+*  **Map and Route Planning**
+  Event locations displayed on a map, with suggested routes using API-based real-time calculations.
+
+*  **Gamification**
+  Users earn points by creating or attending events, which are shown in their profile.
+
+*  **User Authentication & Roles**
+  Login, registration, password reset with secure hashing and role-based authorization (admin/user).
+
+*  **Admin Panel**
+  Full control over events and users with moderation features.
+
+---
+
+##  Technologies Used
+
+* **Frontend:** Html, Css, React.js, Bootstrap, 
+* **Backend:** Node.js (Express)
+* **Database:** MySQL
+* **Map Integration:** Google Maps API 
+* **Authentication:** JWT-based secure login
+* **Recommendation Engine:** Rule-based logic
+
+---
+
+## Key Modules
+
+### Event Suggestion (Rule-Based)
+
+| Rule Type                 | Description                                      |
+| ------------------------- | ------------------------------------------------ |
+| **Interest Match**        | Events matching user interests are prioritized   |
+| **Participation History** | Recommends events similar to previously attended |
+| **Location Proximity**    | Nearby events ranked higher for easier access    |
+
+### Time Conflict Detection
+
+| Step | Description                                               |
+| ---- | --------------------------------------------------------- |
+| 1.   | Check user's current event schedule                       |
+| 2.   | Compare new event’s time with existing ones               |
+| 3.   | Show warning and alternative options if conflict detected |
+
+### Messaging Panel
+
+* One shared chat per event (not real-time, updated on refresh)
+* Message history stored per event
+* Notification system for new messages
+
+---
+
+##  Gamification Logic
+
+| Action             | Points |
+| ------------------ | ------ |
+| First Event Join   | +20    |
+| Each Event Joined  | +10    |
+| Each Event Created | +15    |
+
+---
+
+##  Project Requirements Summary
+
+* User registration, login, and profile update
+* Event create/join/edit/delete
+* Conflict detection & map routing
+* Messaging per event
+* Admin approval system
+* Rule-based recommendation engine
+
+---
+
+##  Sample Screenshots
 
   <h2 > Register/Login Page</h2>
 
@@ -37,5 +126,5 @@
 <h2 >Not Found Page</h2>
 <img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/2dfe7ffd-0662-4def-8701-0e50cc7a9bca">
 
-
+---
 
